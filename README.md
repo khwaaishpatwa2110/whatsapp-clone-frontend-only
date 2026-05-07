@@ -36,8 +36,8 @@ Link **multiple mobile phones** (up to 3) to a single PC. Currently, WhatsApp We
 ```
 whatsapp-clone-frontend-only/
 │
-├── index.html       # Main app (single file — all HTML, CSS, and layout)
 ├── bg.jpeg          # Chat background wallpaper image
+├── index.html       # Main app (single file — all HTML, CSS, and layout)
 └── pfp.jpg          # Profile picture used in sidebar and settings
 ```
 
