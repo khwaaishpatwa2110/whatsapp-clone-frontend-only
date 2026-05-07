@@ -2,7 +2,7 @@
 
 A frontend-only concept redesign of **WhatsApp Web**, built to propose and demonstrate two new features that the desktop version currently lacks.
 
-🔗 **Live Demo:** [https://khwaaishpatwa2110.github.io/whatsapp-clone-frontend-only/](https://khwaaishpatwa2110.github.io/whatsapp-clone-frontend-only/)
+### 🌐 [Live Demo → khwaaishpatwa2110.github.io/whatsapp-clone-frontend-only](https://khwaaishpatwa2110.github.io/whatsapp-clone-frontend-only/)
 
 ---
 
